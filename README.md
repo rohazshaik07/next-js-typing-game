@@ -1,6 +1,6 @@
 # ⌨️ Next.js Typing Game
 
-![Image](https://github.com/user-attachments/assets/db4c742f-4d9b-4d44-9b90-9bac3a53dc5e)
+![Typing Game Banner](https://github.com/user-attachments/assets/22671fa4-46a4-4c29-a965-461483038d2b)
 
 ## 📝 Description
 
